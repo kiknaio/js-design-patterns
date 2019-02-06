@@ -5,3 +5,5 @@ In software architecture, publish–subscribe is a messaging pattern where sende
 Publish–subscribe is a sibling of the message queue paradigm, and is typically one part of a larger message-oriented middleware system. Most messaging systems support both the pub/sub and message queue models in their API, e.g. Java Message Service (JMS).
 
 This pattern provides greater network scalability and a more dynamic network topology, with a resulting decreased flexibility to modify the publisher and the structure of the published data. 
+
+[Pub/Sub JavaScript Object - David Walsh Blog](https://davidwalsh.name/pubsub-javascript)
